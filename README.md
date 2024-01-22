@@ -1,6 +1,6 @@
 # About
 
-`dotw-practice.py` is a command-line interface for practicing the Day of the Week mental math algorithm described (here)[https://gmmentalgym.blogspot.com/2011/03/day-of-week-for-any-date-revised.html]
+`dotw-practice.py` is a command-line interface for practicing the Day of the Week mental math algorithm described [here](https://gmmentalgym.blogspot.com/2011/03/day-of-week-for-any-date-revised.html)
 
 # Setup
 
